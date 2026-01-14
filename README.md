@@ -1,6 +1,7 @@
 # Zetamax - Zetamac Auto-Solver
 
 Automatically solves math problems on Zetamac.
+[Play Zetamac](https://arithmetic.zetamac.com/)
 
 ## Usage
 
